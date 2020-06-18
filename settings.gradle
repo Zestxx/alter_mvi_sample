@@ -1,0 +1,2 @@
+rootProject.name='alter_mvi_sample_chryev'
+include ':app'
